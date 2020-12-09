@@ -42,7 +42,8 @@
                                 <div class="floating"></div>
                                 <div class="rounded-circle">
                                     <img src="/assets/images/profile/img-man.png" alt="/"
-                                        class="rounded-circle img-fluid"></div>
+                                        class="rounded-circle img-fluid">
+                                </div>
                             </div>
                         </div>
                     </div>
