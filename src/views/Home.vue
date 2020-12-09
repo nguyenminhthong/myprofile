@@ -35,13 +35,13 @@
                         <div class="col-lg-6 order-1 order-lg-2">
                             <div class="hero-images">
                                 <div class="square">
-                                    <img src="images/img-element_square.png" alt="/"></div>
+                                    <img src="/assets/images/profile/img-element_square.png" alt="/"></div>
                                 <div class="circle"></div>
                                 <div class="circle-2"></div>
                                 <div class="circle-3"></div>
                                 <div class="floating"></div>
                                 <div class="rounded-circle">
-                                    <img src="images/img-personal-image-05.jpg" alt="/"
+                                    <img src="/assets/images/profile/img-man.png" alt="/"
                                         class="rounded-circle img-fluid"></div>
                             </div>
                         </div>

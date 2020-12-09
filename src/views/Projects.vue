@@ -36,12 +36,12 @@
                         <div class="col-lg-4 portfolio-item seo" style="position: absolute; left: 0px; top: 0px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-10.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-01.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-10.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-01.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -55,12 +55,12 @@
                         <div class="col-lg-4 portfolio-item graphic webdesign" style="position: absolute; left: 380px; top: 0px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-11.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-02.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-11.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-02.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -74,12 +74,12 @@
                         <div class="col-lg-4 portfolio-item webdesign graphic" style="position: absolute; left: 760px; top: 0px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-12.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-03.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-12.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-03.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -93,12 +93,12 @@
                         <div class="col-lg-4 portfolio-item mobiledesign webdesign" style="position: absolute; left: 0px; top: 293px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-13.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-04.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-13.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-04.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -112,12 +112,12 @@
                         <div class="col-lg-4 portfolio-item mobiledesign seo" style="position: absolute; left: 380px; top: 293px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-14.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-05.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-14.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-05.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -131,12 +131,12 @@
                         <div class="col-lg-4 portfolio-item mobiledesign" style="position: absolute; left: 760px; top: 293px;">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-15.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-06.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-15.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-06.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -150,12 +150,12 @@
                         <div class="col-lg-4 portfolio-item mobiledesign webdesign visible_item" style="position: absolute; left: 0px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(0px, 0.326px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-16.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-07.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-16.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-07.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -169,12 +169,12 @@
                         <div class="col-lg-4 portfolio-item webdesign graphic visible_item" style="position: absolute; left: 380px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-380px, 0.326px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-17.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-08.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-17.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-08.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -188,12 +188,12 @@
                         <div class="col-lg-4 portfolio-item seo visible_item" style="position: absolute; left: 760px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-760px, 0.326px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-18.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-09.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-18.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-09.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -207,12 +207,12 @@
                         <div class="col-lg-4 portfolio-item mobiledesign seo visible_item" style="position: absolute; left: 0px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(0px, -292.674px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-11.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-01.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-11.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-01.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -226,12 +226,12 @@
                         <div class="col-lg-4 portfolio-item webdesign graphic visible_item" style="position: absolute; left: 380px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-380px, -292.674px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-14.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-02.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-14.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-02.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>
@@ -245,12 +245,12 @@
                         <div class="col-lg-4 portfolio-item seo graphic visible_item" style="position: absolute; left: 760px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-760px, -292.674px, 0px);">
                             <div class="image-border">
                                 <div class="portfolio-item-content">
-                                    <img src="assets/img/portfolio-16.jpg" alt="/" class="img-fluid">
+                                    <img src="/assets/images/works/portfolio-03.jpg" alt="/" class="img-fluid">
                                     <div class="img-overlay text-center">
                                         <div class="img-overlay-content">
                                             <div class="portfolio-icon">
                                                 <a href="portfolio-single.html"><i class="lni-link"></i></a>
-                                                <a href="assets/img/portfolio-16.jpg" class="js-zoom-gallery">
+                                                <a href="/assets/images/works/portfolio-03.jpg" class="js-zoom-gallery">
                                                     <i class="lni-search"></i>
                                                 </a>
                                             </div>

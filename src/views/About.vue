@@ -13,7 +13,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="image-border">
-                                <img src="images/img-about-01.jpg" alt="/"></div>
+                                <img src="/assets/images/profile/img-man.png" alt="/"></div>
                         </div>
                         <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="personal-item ">

@@ -18,7 +18,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-07.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-07.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
@@ -48,7 +48,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-08.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-08.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
@@ -78,7 +78,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-09.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-09.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
@@ -108,7 +108,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-10.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-10.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
@@ -138,7 +138,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-11.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-11.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
@@ -168,7 +168,7 @@
                             <div class="blog-item box-border">
                                 <div class="blog-image">
                                     <div class="blog-intro">
-                                        <img src="images/img-blog-12.jpg" alt="/"></div>
+                                        <img src="/assets/images/blog/img-blog-12.jpg" alt="/"></div>
                                 </div>
                                 <div class="blog-content">
                                     <ul class="list-inline mt-4">
