@@ -1,5 +1,5 @@
 <template>
-    <section id="portfolio" class="section portfolio active">
+    <section id="portfolio" class="section portfolio">
         <div class="display-table">
             <div class="display-content">
                 <div class="container">

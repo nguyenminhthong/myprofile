@@ -1,5 +1,5 @@
 <template>
-    <section id="blog" class="section blog active">
+    <section id="blog" class="section blog">
         <div class="display-table">
             <div class="display-content">
                 <div class="container">
