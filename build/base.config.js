@@ -12,12 +12,12 @@ module.exports = {
                     to: 'assets/lib'
                 }],
             }),
-            new CopyWebpackPlugin({
-                patterns: [{
-                    from: 'src/assets/images',
-                    to: 'assets/images'
-                }],
-            })
+            // new CopyWebpackPlugin({
+            //     patterns: [{
+            //         from: 'src/assets/images',
+            //         to: 'assets/images'
+            //     }],
+            // })
         ],
         module: {
             rules: [

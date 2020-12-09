@@ -1,0 +1,283 @@
+<template>
+    <section id="portfolio" class="portfolio active">
+        <div class="display-table">
+            <div class="display-content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="text-center title">
+                                <h2 class="text-dark">My <span class="base-color">Works</span></h2>
+                                <p class="text-muted mb-5 max-width-450">In a professional context it often happens that private clients corder a publication to be made.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!--   Portfolio Filters   -->
+                        <ul id="portfolio-filter" class="list-unstyled list-inline mb-0 col-lg-12 text-center portfolio-filter">
+                            <li class="button-border list-inline-item">
+                                <a href="#" data-filter="*" class="pill-button active">All</a>
+                            </li>
+                            <li class="button-border list-inline-item">
+                                <a href="#" data-filter=".webdesign" class="pill-button">Web Design</a>
+                            </li>
+                            <li class="button-border list-inline-item">
+                                <a href="#" data-filter=".mobiledesign" class="pill-button">Mobile Design</a>
+                            </li>
+                            <li class="button-border list-inline-item">
+                                <a href="#" data-filter=".seo" class="pill-button">Seo</a>
+                            </li>
+                            <li class="button-border list-inline-item">
+                                <a href="#" data-filter=".graphic" class="pill-button">Graphic</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-items row" style="position: relative; height: 587.326px;">
+                        <!-- Item 01 -->
+                        <div class="col-lg-4 portfolio-item seo" style="position: absolute; left: 0px; top: 0px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-10.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-10.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 02 -->
+                        <div class="col-lg-4 portfolio-item graphic webdesign" style="position: absolute; left: 380px; top: 0px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-11.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-11.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 03 -->
+                        <div class="col-lg-4 portfolio-item webdesign graphic" style="position: absolute; left: 760px; top: 0px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-12.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-12.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 04 -->
+                        <div class="col-lg-4 portfolio-item mobiledesign webdesign" style="position: absolute; left: 0px; top: 293px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-13.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-13.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 05 -->
+                        <div class="col-lg-4 portfolio-item mobiledesign seo" style="position: absolute; left: 380px; top: 293px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-14.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-14.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 06 -->
+                        <div class="col-lg-4 portfolio-item mobiledesign" style="position: absolute; left: 760px; top: 293px;">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-15.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-15.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 07 -->
+                        <div class="col-lg-4 portfolio-item mobiledesign webdesign visible_item" style="position: absolute; left: 0px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(0px, 0.326px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-16.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-16.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 08 -->
+                        <div class="col-lg-4 portfolio-item webdesign graphic visible_item" style="position: absolute; left: 380px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-380px, 0.326px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-17.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-17.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 09 -->
+                        <div class="col-lg-4 portfolio-item seo visible_item" style="position: absolute; left: 760px; top: 587px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-760px, 0.326px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-18.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-18.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 10 -->
+                        <div class="col-lg-4 portfolio-item mobiledesign seo visible_item" style="position: absolute; left: 0px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(0px, -292.674px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-11.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-11.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 11 -->
+                        <div class="col-lg-4 portfolio-item webdesign graphic visible_item" style="position: absolute; left: 380px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-380px, -292.674px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-14.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-14.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item 12 -->
+                        <div class="col-lg-4 portfolio-item seo graphic visible_item" style="position: absolute; left: 760px; top: 880px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms; transform: translate3d(-760px, -292.674px, 0px);">
+                            <div class="image-border">
+                                <div class="portfolio-item-content">
+                                    <img src="assets/img/portfolio-16.jpg" alt="/" class="img-fluid">
+                                    <div class="img-overlay text-center">
+                                        <div class="img-overlay-content">
+                                            <div class="portfolio-icon">
+                                                <a href="portfolio-single.html"><i class="lni-link"></i></a>
+                                                <a href="assets/img/portfolio-16.jpg" class="js-zoom-gallery">
+                                                    <i class="lni-search"></i>
+                                                </a>
+                                            </div>
+                                            <h5 class="mt-3 mb-0">My Work</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-12 text-center pt-2">
+                            <div class="button-border d-inline-block">
+                                <button class="pill-button showMore" id="showMore">Show More</button>
+                                <span id="showMore-initials" class="d-none" data-initial="6" data-next="3"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<script lang="ts">
+    import BaseComponent, {Component} from '@/utils/base-component';
+    @Component
+    export default class Projects extends BaseComponent {
+
+    }
+</script>
