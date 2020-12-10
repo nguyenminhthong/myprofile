@@ -58,5 +58,8 @@
 
     @Component
     export default class Home extends BaseComponent {
+        private onLoad() {
+            
+        }
     }
 </script>
