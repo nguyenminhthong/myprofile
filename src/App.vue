@@ -1,7 +1,10 @@
 <template>
-    <div id="app" class="flat-demo">
+    <div id="app" class="wrapper">
         <Header></Header>
-        <main class="content" id="main">
+        <main id="content">
+            <a href="#" @click.prevent="toggleSide()" class="btn btn-info">
+                <i class="fa fa-align-left"></i>
+            </a>
             <transition name="page" mode="out-in">
                 <router-view></router-view>
             </transition>
@@ -19,22 +22,14 @@
         }
     })
     export default class App extends BaseComponent {
+        private toggleSide() {
+            window.ui.toggleSideBar();
+            return false;
+        }
     }
 </script>
 
 <style lang="scss" scoped>
     @import '@/assets/sass/style.scss';
-    .page-enter-active, .page-leave-active {
-        transform: translate3d(0, 0, 0);
-        z-index: 2;
-        opacity: 1;
-        transition: transform .6s ease;
-    }
-    .page-enter, .page-leave-to {
-        transform: translate3d(100%, 0, 0);
-        z-index: 0;
-        opacity: 0;
-        transition: transform .05s ease .05s, opacity 0s ease .05s;
-    }
-
+    @import '@/assets/sass/main.scss';
 </style>

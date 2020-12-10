@@ -1,5 +1,3 @@
-declare namespace core {
-    namespace ui {
-        
-    }
+declare namespace ui {
+    function toggleSideBar(): void
 }

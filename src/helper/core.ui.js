@@ -1,7 +1,10 @@
-var core = core || {};
+var ui = ui || {};
 
 (function() {
     /* Helper for UI ***************************************************/
-    core.ui = core.ui || {}
+    ui.toggleSideBar = function() {
+        $('#sidebar, #content').toggleClass('active');
+        $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+    }
 
 })();

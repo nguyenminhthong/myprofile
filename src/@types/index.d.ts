@@ -1,7 +1,8 @@
 import Vue, { VNode } from 'vue';
 declare global {
     interface Window {
-        core: any
+        core: any,
+        ui: any
     }
 
     interface String {

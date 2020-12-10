@@ -1,11 +1,35 @@
-header {
-  // width: 90px;
-  // border-radius: 0 1.25rem 1.25rem 0;
-  position: fixed;
-  z-index: 1030;
-  top: 0;
-  left: 0;
-  height: 100%;
-  background: #f1f3f6;
-  box-shadow: 3px 3px 8px rgba(55, 84, 170, 0.1), -3px -3px 8px white;
+#sidebar {
+    width: 180px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    color: #fff;
+    transition: all 0.3s;
+    box-shadow: 3px 3px 8px 0px rgba(145, 145, 145, 0.1) !important;
+
+    &.active {
+        margin-left: -250px;
+    }
+
+    .menu {
+        top: 50%;
+        // position: absolute;
+        transform: translateY(40%);
+    }
+
+    ul {
+        li {
+            border: unset;
+            a {
+                margin-left: 10%;
+            }
+        }
+    }
+
+    i {
+        padding-right: 10px;
+    }
 }
+
