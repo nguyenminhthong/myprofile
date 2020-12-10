@@ -4,8 +4,8 @@
 
         </div>
         <ul class="list-unstyled menu">
-            <li class="list-group-item">
-                <router-link to="/home">
+            <li class="list-group-item link_active">
+                <router-link to="/home" class="link_active">
                     <i class="fa fa-home"></i><span>Home</span>
                 </router-link>
             </li>
@@ -20,7 +20,7 @@
                 </router-link>
             </li>
             <li class="list-group-item">
-                <router-link to="/projects">
+                <router-link to="/works">
                     <i class="fa fa-briefcase"></i><span>Works</span>
                 </router-link>
             </li>

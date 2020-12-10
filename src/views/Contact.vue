@@ -105,3 +105,7 @@
 
     }
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/contact.scss";
+</style>

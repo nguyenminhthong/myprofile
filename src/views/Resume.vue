@@ -259,3 +259,7 @@
 
     }
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/resume.scss";
+</style>

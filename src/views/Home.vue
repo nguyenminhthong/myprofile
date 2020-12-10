@@ -58,8 +58,11 @@
 
     @Component
     export default class Home extends BaseComponent {
-        private onLoad() {
-            // adasdasd
-        }
+
     }
+
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/home.scss";
+</style>

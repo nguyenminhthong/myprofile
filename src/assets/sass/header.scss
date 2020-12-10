@@ -15,15 +15,29 @@
 
     .menu {
         top: 50%;
-        // position: absolute;
         transform: translateY(40%);
     }
 
     ul {
         li {
             border: unset;
+            margin-bottom: 5px;
             a {
                 margin-left: 10%;
+                &.link_active {
+                    color: #0c9b7e !important;
+                }
+            }
+
+            &:hover {
+                box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+                border-bottom: 0.1px solid rgba(0, 0, 0, 0.1);
+                a {
+                    color: #0c9b7e !important;
+                }
+            }
+            &.link_active {
+                border-bottom: 0.1px solid rgba(121, 221, 7, 0.89);
             }
         }
     }

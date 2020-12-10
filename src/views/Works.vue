@@ -282,7 +282,7 @@
                                 <span id="showMore-initials" class="d-none" data-initial="6" data-next="3"></span>
                             </div>
                             <div class="button-border d-inline-block">
-                                <a href="portfolio.html" class="pill-button">Portfolio Page</a>
+                                <router-link to="/projects" class="pill-button">Project</router-link>
                             </div>
                         </div>
                     </div>
@@ -298,3 +298,7 @@
 
     }
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/work.scss";
+</style>

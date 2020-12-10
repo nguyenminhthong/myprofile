@@ -281,3 +281,7 @@
 
     }
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/project.scss";
+</style>

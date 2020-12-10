@@ -214,4 +214,9 @@
     export default class Blogs extends BaseComponent {
 
     }
+
 </script>
+
+<style lang="scss" scoped>
+    @import "@/assets/sass/blog.scss";
+</style>

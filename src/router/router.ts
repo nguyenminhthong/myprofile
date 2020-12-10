@@ -18,6 +18,11 @@ const routers: Array<RouteConfig> = [
         component: () => import('@/views/Resume.vue')
     },
     {
+        path: '/works',
+        name: 'works',
+        component: () => import('@/views/Works.vue')
+    },
+    {
         path: '/projects',
         name: 'projects',
         component: () => import('@/views/Projects.vue')
