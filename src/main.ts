@@ -3,6 +3,8 @@ import App from './App.vue';
 import router from './router';
 import {store} from './store';
 
+import '@/assets/sass/main.scss';
+
 Vue.config.productionTip = false;
 Vue.config.devtools = process.env.NODE_ENV === 'development';
 

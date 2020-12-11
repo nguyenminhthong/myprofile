@@ -1,0 +1,23 @@
+
+@function fnthemable($theme_name) {
+    @if map-has-key($themes, $theme_name) {
+        @return map-get($themes, $theme_name);
+    }
+}
+
+@mixin themable($theme) {
+    background-color: map-get(fnthemable($theme), 'background-color') !important;
+    color: map-get(fnthemable($theme), 'color');
+}
+
+@mixin respond ($breakpoint) {
+    @if map-has-key($breakpoints, $breakpoint) {
+        $value: map-get($breakpoints, $breakpoint);
+
+        @media (min-width: $value) {
+            @content;
+        }
+    } @else {
+        @warn 'Invalid breakpoint: #{$breakpoint}.';
+    }
+}

@@ -1,0 +1,34 @@
+/*====================== Start Screen ======================*/
+
+$breakpoints: (
+    xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px
+);
+/*====================== End Screen ======================*/
+
+/*====================== Start Color ======================*/
+$white: #fff;
+$black: #000000;
+/*====================== End Color ======================*/
+
+/*====================== Start BackgroundColor ======================*/
+$bg_white:  #e9edf3;
+$bg_dark: #2c2d30;
+/*====================== End BackgroundColor ======================*/
+
+/*====================== Start Theme ======================*/
+$themes: (
+    light: (
+        background-color: $bg_white,
+        color: $black
+    ),
+    dark: (
+        background-color: $bg_dark,
+        color: $white
+    )
+);
+
+/*====================== End Theme ======================*/
+
+/*====================== Start Font ======================*/
+$font_size_normal: 14.5px !default;
+/*====================== End Font ======================*/

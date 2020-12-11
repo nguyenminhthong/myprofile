@@ -282,7 +282,3 @@
 
     }
 </script>
-
-<style lang="scss" scoped>
-    @import "@/assets/sass/about.scss";
-</style>

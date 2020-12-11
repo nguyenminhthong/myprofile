@@ -2,11 +2,17 @@
     <div id="app" class="wrapper">
         <Header></Header>
         <main id="content">
-            <a href="#" @click.prevent="toggleSide()" class="btn btn-info">
+            <a href="#" @click.prevent="toggleSide()" class="btn btn-info" id="sidebarCollapse">
                 <i class="fa fa-align-left"></i>
             </a>
             <transition name="page" mode="out-in">
-                <router-view></router-view>
+                <section>
+                    <div class="display-table">
+                        <div class="display-content">
+                            <router-view></router-view>
+                        </div>
+                    </div>
+                </section>
             </transition>
         </main>
     </div>
@@ -26,10 +32,9 @@
             window.ui.toggleSideBar();
             return false;
         }
+
+        private mounted () {
+            window.ui.calcHeight();
+        }
     }
 </script>
-
-<style lang="scss" scoped>
-    @import '@/assets/sass/style.scss';
-    @import '@/assets/sass/main.scss';
-</style>

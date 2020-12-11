@@ -1,7 +1,6 @@
 initScript = function() {
     let script = [
         "/assets/lib/core.js",
-        "/assets/lib/core.ui.js",
         "/assets/lib/helper.js",
         "/assets/lib/script.js",
     ];

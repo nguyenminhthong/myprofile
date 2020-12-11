@@ -1,56 +1,49 @@
 <template>
-    <section id="hero" class="section hero-06">
-        <div class="display-table">
-            <div class="display-content">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 order-2 order-lg-1">
-                            <div class="hero-content">
-                                <h1 class="mb-3">I'M Jessy Doe</h1>
-                                <h4 class="text-capitalize mb-0"><span class="base-color">A </span> <span
-                                        class="element"
-                                        data-elements="UI Designer.,Web Designer.,Web Developer."></span></h4>
-                                <p class="max-width-450 mx-0 my-4">In a professional context it often happens that
-                                    private clients corder a publication to be made.</p>
-                                <ul class="list-inline hero-social">
-                                    <li class="list-inline-item">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/img-facebook.svg" alt=""></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/img-twitter.svg" alt=""></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/img-github.svg" alt=""></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/img-linkedin.svg" alt=""></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 order-1 order-lg-2">
-                            <div class="hero-images">
-                                <div class="square">
-                                    <img src="/assets/images/profile/img-element_square.png" alt="/"></div>
-                                <div class="circle"></div>
-                                <div class="circle-2"></div>
-                                <div class="circle-3"></div>
-                                <div class="floating"></div>
-                                <div class="rounded-circle">
-                                    <img src="/assets/images/profile/img-man.png" alt="/"
-                                        class="rounded-circle img-fluid">
-                                </div>
-                            </div>
-                        </div>
+    <div class="container">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-12 img_profile">
+                    <div class="text-center image-border">
+                        <img src="/assets/images/profile/img-man.png" alt="/">
                     </div>
+                    <div class="text-center">
+                        <h2 class="text-dark">NGUYỄN MINH THÔNG</h2>
+                        <p class="text-muted max-width-450 mb-5">In a professional context it often happens
+                            that private clients corder a publication to be made.</p>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <h2>Basic Information</h2>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th>Birthday: <span>08 August 1994</span></th>
+                                <th>Website : dev-profile.tech</th>
+                            </tr>
+                            <tr>
+                            </tr>
+                            <tr>
+                                <th>Birthday :</th>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th>Birthday :</th>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th>Birthday :</th>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th>Birthday :</th>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
 </template>
 
 <script lang="ts">

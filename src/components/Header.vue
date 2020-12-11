@@ -10,11 +10,6 @@
                 </router-link>
             </li>
             <li class="list-group-item">
-                <router-link to="/about">
-                    <i class="fa fa-user"></i><span>About</span>
-                </router-link>
-            </li>
-            <li class="list-group-item">
                 <router-link to="/resume">
                     <i class="fa fa-address-book"></i><span>Resume</span>
                 </router-link>

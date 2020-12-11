@@ -9,6 +9,9 @@
     transition: all 0.3s;
     box-shadow: 3px 3px 8px 0px rgba(145, 145, 145, 0.1) !important;
 
+    .list-group-item {
+        background-color: unset;
+    }
     &.active {
         margin-left: -250px;
     }
@@ -30,7 +33,7 @@
             }
 
             &:hover {
-                box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+                box-shadow: 1px 1px -10px rgba(0, 0, 0, 0.1);
                 border-bottom: 0.1px solid rgba(0, 0, 0, 0.1);
                 a {
                     color: #0c9b7e !important;
